@@ -1,0 +1,15 @@
+<!-- content block -->
+<div align="center" class="row navbar-collapse collapse" style="background-color: #page_assignd_color; color: #ffffff; padding-left: 2%; padding-right: 2%; right: 0px; font-size: calc(0.5vmax + 7px); border: 30px solid transparent; padding: 0px; border-image: url('/assets/img/divider2.png'); border-image-slice: 100% 0%; border-image-repeat: round; border-image-outset: initial; border-top: 0px; border-right: 0px; border-left: 0px;"><!-- /.col-lg-2 -->
+  <div align="center" class="col-lg-4 col-md-4 col-sm-4">
+    <p class="font-unit-resize" style="color: #ffffff;"><a href="link1" style="color: #ffffff; text-decoration: none;"><span class="flaticon-icon1" style="font-size: 3em;"></span><br a="" class="  hidden-xs" programs="" />
+      PROGRAMS</a></p>
+  </div>
+  <div align="center" class="col-lg-4 col-md-4 col-sm-4">
+    <p class="font-unit-resize" style="color: #ffffff;"><a href="" style="color: #ffffff; text-decoration: none;"><span class="flaticon-icon2" style="font-size: 3em;"></span><br class=" hidden-xs" />
+      APPLY</a></p>
+  </div>
+  <div align="center" class="col-lg-4 col-md-4 col-sm-4">
+    <p class="font-unit-resize" style="color: #ffffff;"><a href="/contact/index" style="color: #ffffff; text-decoration: none;"><span class="flaticon-icon3" style="font-size: 3em;"></span><br class="hidden-xs" />
+      CONTACT</a></p>
+  </div>
+</div>
